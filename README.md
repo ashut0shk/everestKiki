@@ -6,7 +6,7 @@ Everest Kiki challenge
 </h1>
 
 <p align="center">
-  <img src="https://github.com/ashut0shk/everestKiki/raw/a2df7933baff4fb8af22ec50696f669bbab56db9/resources/images/index.jpg" />
+  <img src="https://github.com/ashut0shk/everestKiki/raw/master/resources/images/index.jpg" />
 </p>
 
 <p align="center">
