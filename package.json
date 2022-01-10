@@ -1,0 +1,17 @@
+{
+  "name": "everestkiki",
+  "version": "1.0.0",
+  "description": "a delivery based analysis CLI application",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kiki",
+    "everest",
+    "delivery"
+  ],
+  "author": "ashut0shk@outlook.com",
+  "license": "ISC"
+}
